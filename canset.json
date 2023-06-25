@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "canset-druksung",
+  "private_key_id": "f3cb470d530124838d0b1cdcbdbfa1e91c81a2e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDRqcnavr52HOjl\n23YmYc6AKsDU6GSIFpG8BmpPzuXCIPCFUz/wglgiMQw/XRHKRTcAFmzT2hvU6zM5\nlun4kcjjtBdT6rWyc+JcrZyPnFbaC3vypKiK8FhetbqsaLCRRru5Qt7TpVmuDl0i\n67kO3z1K+q6ELe+lvTxxbbx1wVi9Bs/t66WlafTrB2S7dfdzoaB0nhUCo5NZ/64K\nmeuuPv3c9oYacbV8Q+ApPtrl85IAO5nCKsvaQsXfNdUMULMtTOUN5s4W2QTz+97v\nmXuprRmsjCZd1c0KHwfhpUKRMc+tqew84bIU5WinU6NVvSs8Ip9mRbJ44ESwaLPi\nZHQzQtGhAgMBAAECggEAHUTjrgrk0d5VUQljJBaRWmkdhFtw9WKZM7N9keijQIeS\nrDoj+fJoVVWdjRb0DdW9yOBYjvaq3f17qDV+Mjo/3jHc89UXSnNNDX0bFx1PLp9d\nzVDZSpQk8gvSpJD03UMPn9xK+SbjLx5IOEDKE95sUxRN2pwDEZMqZfdY0OON/M0+\n388+0B9dvWZsGkNksSmfTJ71OY0wbLB0Brk6HRqGw3ogC4OlRr92OqCkHORgxNmd\n9k0aT71/16RdA8gkmu+hr3JWRCiWp2+Bv4fGylDiynFyu+ix4jNrebFUjeuq2/7Z\n/3Vy2VHloClOJzK9m7EXM9MWTzjd0VPE2o0mmDHgNQKBgQD0pYwz6HIMJs3My3pY\nwwrOKfmpO/5VuPBKxNPWBa5Du/ubXF38aP45qlyFB9z/UCDNW3GsBMPugESnyGaU\nuCC1E3SSm0QVD+DwQn7+PQsJLJTW3T3OxY1jIWY+bBTxU4ZFhX34rv+g0Evv06z7\nicUl0Ju1FRAl1+i2ueTU2iXFrwKBgQDbZKFoEwiXAxDzY4gH4jDmp7NW3BhwpGvY\nexlOJKwKWdAlpytJ+pmYOQTJnF/kqpwMgiu/Bf3/4jlgvyOqXIri6nfkgNioJYVP\nzEKFpfKXY1WogCJPY2VNayH+JmTJUdZBY0P8I8HTiNMWdqZd6NpbpalCL9/8Fm8V\nTAjWksUBrwKBgQCulEBDfnl8IGi13vI0yyI30o5dbPlm1K1svZ5pWO5tWYUH7dcH\n2yinn+Gb8OuMqfJuePXaCiCDXrcfgAtrzyVP8k06nV/tI8Kh0OHsrUTlzBF+bqy/\nlAv8FIZwvxIG0FK946/sOX0jleDKiKQlb7/m50Fl7Fz0lGl1k5wvJGjV8wKBgQCo\nABodQR39zapIRnpfVxUNO3P4WpgYgb/XyQPqs+hOENJ0UtuyTcUaLOd+n1FLIF5Y\nscFgCO2k6Y34iMV96lmsQ9HFV+kQcZLxNT/nadknljh8zIn5cuqa6yPfo3TgONux\nvJrN1G/TVV4XQIpLNUkojuXauiBxwJgVneDStxdHHwKBgEG+owqd/AKBKhfQMqYF\n/7W2uG9RcDayPqVHqJzQ6udyabLtdiQNLJ8kVQ3rOhm2Zz/dGzPj16CxuhALti7d\nton2ezHLkWuADAPl4y7ZHnIV8hR+uM8J8jgyhmSoF4doSDqGnM2GnkVuyaUbuD4u\n3WG6cecIWUBOOCQxMJ3ONQ43\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n9o1q@canset-druksung.iam.gserviceaccount.com",
+  "client_id": "108555856991198231621",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n9o1q%40canset-druksung.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
